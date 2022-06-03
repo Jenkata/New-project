@@ -12,4 +12,5 @@ Ich habe einen Hund.
 Das ist ein Haus.
 
 Ist das ein Haus?
+Ala bala nica.
 
